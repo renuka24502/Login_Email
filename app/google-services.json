@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "353975977276",
-    "firebase_url": "https://authmodule-52c95.firebaseio.com",
-    "project_id": "authmodule-52c95",
-    "storage_bucket": "authmodule-52c95.appspot.com"
+    "project_number": "831841935377",
+    "firebase_url": "https://login-7b227.firebaseio.com",
+    "project_id": "login-7b227",
+    "storage_bucket": "login-7b227.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:353975977276:android:bedcdec6f76bddb6",
+        "mobilesdk_app_id": "1:831841935377:android:adbbef91dec9979a",
         "android_client_info": {
-          "package_name": "com.example.hp.authapp"
+          "package_name": "com.example.renuka.login"
         }
       },
       "oauth_client": [
         {
-          "client_id": "353975977276-o018n1dpfdamcefk4pvol4aunnca2mbh.apps.googleusercontent.com",
+          "client_id": "831841935377-chn39r1ocko380m7skjbtg7dlt218a7a.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.hp.authapp",
-            "certificate_hash": "0bcee40cc1dcb65e94511717228a8637cde5d7f8"
+            "package_name": "com.example.renuka.login",
+            "certificate_hash": "09defabdc7fff40e5535338bf19a1afc04a2065d"
           }
         },
         {
-          "client_id": "353975977276-5414tcihrv733be768q7up9danp84qsp.apps.googleusercontent.com",
+          "client_id": "831841935377-7v7gdvkurrccvufc82b8pulno49g9nhk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDTGQ_NXlh6t6QvH2-m7K9nUbCKZGJaHAE"
+          "current_key": "AIzaSyDs3mhn_EdW_nbNEesVNCS6qh2BzZf3hKo"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "353975977276-5414tcihrv733be768q7up9danp84qsp.apps.googleusercontent.com",
+              "client_id": "831841935377-7v7gdvkurrccvufc82b8pulno49g9nhk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
